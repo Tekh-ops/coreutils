@@ -201,7 +201,7 @@ GNU coreutils NEWS                                    -*- outline -*-
   uniq no longer uses strcoll() to determine string equivalence,
   and so will operate more efficiently and consistently.
 
-** New Features
+** New features
 
   ls now supports the --time=birth option to display and sort by
   file creation time, where available.
